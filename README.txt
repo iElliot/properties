@@ -4,5 +4,10 @@
 3.the second commit is failed.try the third
 4.it doest work
 
+
+5.test stash cmd
+
 6.test checkout 18e1b8c58575d08eeab0325a792e455db3da04ed5
+
+
 
